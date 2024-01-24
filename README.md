@@ -2,6 +2,4 @@
 # This data project has been used as a take-home assignment in the recruitment process for the data science positions at Sony Research
 
 Data Description
-The customer churn data is given in the file Data_Science_Challenge.csv. The detailed explanation is as follows:
-
-
+The customer churn data is given in the file Data_Science_Challenge.csv.
